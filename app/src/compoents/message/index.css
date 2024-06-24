@@ -1,0 +1,18 @@
+.message{
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+}
+
+.me{
+    background-color: rgb(217, 253, 253);
+    /* float: right; */
+    text-align: left;
+}
+
+.opp{
+    background-color: rgb(204, 254, 238);
+    /* float: left; */
+    text-align: right;
+
+}
